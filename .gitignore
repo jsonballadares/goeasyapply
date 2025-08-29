@@ -1,0 +1,30 @@
+# Go build outputs
+/bin/
+/obj/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go test outputs
+*.test
+
+# Go module files
+/go.sum
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ChromeDP / temporary browser data
+chromedp-profile/
